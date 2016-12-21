@@ -12,5 +12,7 @@ namespace Shop.Domain.Concrete
     {
         public DbSet<Product> Products { get; set; }
 
+
+
     }
 }
